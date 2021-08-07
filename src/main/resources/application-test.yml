@@ -1,4 +1,4 @@
-#These db properties are optional for H2 embedded database
+#These db properties are optional for H2 embedded database test
 spring:
   datasource:
     url: jdbc:h2:mem:testdb
